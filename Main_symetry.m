@@ -40,7 +40,7 @@ Geometry.rings=find_rings(Input.adjacentAssemblies);
 fprintf('*********************************************************************\n')
 fprintf('Constraint matrices\n')
 fprintf('*********************************************************************\n')
-Pb=make_constraints_symetry(Pb,Input,Coolant,Geometry);
+Pb=make_constraints(Pb,Input,Coolant,Geometry);
 
 % Solve
 fprintf('*********************************************************************\n')

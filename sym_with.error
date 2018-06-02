@@ -1,0 +1,13 @@
+{Index exceeds matrix dimensions.
+
+Error in make_constraints_symetry (line 71)
+            Aineq_v(idx_Aineq) = -x(j)*cp(i,j,k);
+} 
+{Reference to non-existent field 'c'.
+} 
+{Undefined variable "Solution" or class "Solution.status".
+} 
+{Undefined variable "Solution" or class "Solution.output.time".
+} 
+{Undefined variable "Solution" or class "Solution.status".
+} 

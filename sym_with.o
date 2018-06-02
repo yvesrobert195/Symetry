@@ -1,0 +1,35 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2017 The MathWorks, Inc.
+                   R2017b (9.3.0.713579) 64-bit (glnxa64)
+                             September 14, 2017
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> *********************************************************************
+>> ORIFICE OPTIMIZATION SCRIPT
+>> 01-Jun-2018 21:10:06>> 
+*********************************************************************
+>> Reading input
+>> >> >> *********************************************************************
+>> Initialization
+>> *********************************************************************
+>> >> 	Reading geometry
+>> >> >> >> 	Reading power data
+>> >> >> >> 	Manipulating data
+>> >> >> >> >> >> >> 	Building coolant properties and temperature tables
+>> >> >> >> >> >> >> >> >> >> >> *********************************************************************
+>> Constraint matrices
+>> *********************************************************************
+>> 	Initialization of constraint matrices
+	Building constraint matrices
+>> >> >> *********************************************************************
+>> Solving with CPLEX
+>> *********************************************************************
+>> >> >> >> >> >> >> 	Saving workspace
+>> >> >> *********************************************************************
+>> END OF SCRIPT
+>> *********************************************************************
+>> >> >> >> 
